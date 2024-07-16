@@ -1,4 +1,4 @@
-# Name: Harshit Aeyitch Raushan
+# Name: Harshit Singh Raushan
 # Date: 20/05/2021
 # Topic: COVID-19 Tracker
 
