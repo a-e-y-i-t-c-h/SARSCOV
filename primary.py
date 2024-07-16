@@ -1,5 +1,5 @@
 # Name: Harshit Singh Raushan
-# Date: 20/05/2021
+# Date: 20/05/2024
 # Topic: COVID-19 Tracker
 
 from tkinter import *
